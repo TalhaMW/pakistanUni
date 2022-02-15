@@ -2,7 +2,7 @@
   "name": "testing-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://talhamw.github.io/PakistanUniversity.io/",
+  "homepage": "https://talhamw.github.io/pakuni.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
